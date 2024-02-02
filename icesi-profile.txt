@@ -1,0 +1,3 @@
+a. NOMBRE: Juan Sebastian
+b. APELLIDO: Silva Ramirez
+c. FECHA_DE_NACIMIENTO: 2005-03-01
